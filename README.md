@@ -1,6 +1,30 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xRYVR9KZ)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19869197)
-# afd-2023M-Bootstrap-Challenge
+Key Features Implemented:
+Design Elements:
 
-**Instructions:**
-In this bootstrap challenge you are tasked to replicate the web page shown in the project-demo file, using only bootstrap 5 (No JS or any other CSS Framework).
+Modern gradient hero section with countdown timer
+Interactive speaker cards with hover effects
+Organized schedule with color-coded days
+Three-tier pricing cards with featured highlighting
+Sponsor section with hover effects
+Contact form and footer
+
+Technical Highlights:
+
+Pure Bootstrap 5 implementation
+Custom CSS properties for easy theming
+Smooth animations and transitions
+Mobile-first responsive design
+Accessibility-focused markup
+Performance-optimized code
+
+Sections Included:
+
+Fixed navigation with smooth scrolling
+Hero section with countdown and CTAs
+About section with feature highlights
+Featured speakers with social links
+3-day conference schedule
+Pricing tiers (Student/Regular/VIP)
+Sponsors showcase
+Contact information and form
+Footer with additional links
